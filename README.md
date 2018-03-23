@@ -5,7 +5,6 @@
 ## Question 1
 How many people search for a host on Airbnb every day in a week? 
 ```sql
-SELECT * FROM strata_user.airbnb_sq
 select 
 ds,
 count (Distinct id_user) as count

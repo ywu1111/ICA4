@@ -1,5 +1,7 @@
 # ICA4
 
+## Description of strata_user.airbnb_sq
+Table contains the information about price, neighborhood every user searches.
 
 
 ## Question 1
@@ -14,4 +16,9 @@ group by ds
 ...
 
 
+
+
 ![ica](visualizations/1.png) 
+
+
+## Question 2

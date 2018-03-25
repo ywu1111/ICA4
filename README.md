@@ -14,4 +14,4 @@ group by ds
 ...
 
 
-![ICA4](/visualizations/1.png) 
+![ica](visualizations/1.png) 

@@ -1,7 +1,7 @@
 # ICA4
 
 ## Description of strata_user.airbnb_sq
-Table contains the information about price, neighborhood every user searches.
+Table contains the information about price, neighborhood,etc every user searches.
 
 
 ## Question 1
